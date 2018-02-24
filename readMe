@@ -1,0 +1,11 @@
+Multi-Reader code with correct x,y origin position in AMuDA Lab.
+
+Origin is South-West corner.
+
+Antenna 1,2 is in North side. Its position is 3.048,8.8392 in metres.
+
+Antenna 3,4 is in South side. Its position is 4.572,0.3048 in metres.
+
+X-Axis is towards East.
+
+Y-Axis is towards North.
